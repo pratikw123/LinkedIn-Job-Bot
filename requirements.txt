@@ -1,0 +1,5 @@
+selenium>=4.18.0
+sentence-transformers>=2.7.0
+keybert>=0.8.4
+spacy>=3.7.0
+torch>=2.0.0
